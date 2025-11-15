@@ -20,6 +20,7 @@
  
  
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-maria-alzate-49507938a)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/share/1ApXNCFL2v/)
-<br> <br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-maria-alzate-49507938a)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/share/1ApXNCFL2v/)<a href="https://discord.gg/1409637194708291759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1409637194708291759" height="30" width="40" /></a>
+</p>
+
 
